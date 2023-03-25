@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1679776456,
+	"version": 1679778445,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,9 @@
 		"images/ladder.png",
 		"images/spring-sheet0.png",
 		"images/spring-sheet1.png",
+		"images/tapjump-sheet0.png",
+		"images/tapleft-sheet0.png",
+		"images/tapright-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
